@@ -1,2 +1,2 @@
 #!bin/bash
-chown -h vincent:staff_hello
+chown vincent:staff_hello /path/to/file_or_directory
